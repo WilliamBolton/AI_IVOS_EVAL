@@ -1,0 +1,53 @@
+user_id,user_archetype,patient,component,hover_duration
+demo,a,1,echarts_plot,3.818
+demo,a,1,prediction_alert,0.214
+demo,a,1,prediction_alert,1.227
+demo,a,1,prediction_alert,0.265
+demo,a,1,prediction_alert,2.408
+demo,a,1,prediction_alert,1.446
+demo,a,1,prediction_alert,0.199
+demo,a,1,prediction_alert,0.044
+demo,a,1,prediction_alert,0.509
+demo,a,1,guideline_alert,0.675
+demo,a,1,guideline_alert,1.533
+demo,a,1,guideline_alert,0.181
+demo,a,1,guideline_alert,1.069
+demo,a,1,patient_table,0.077
+demo,a,1,patient_table,0.022
+demo,a,1,similar_table_Similar patient,0.357
+demo,a,1,similar_table_Similar patient,0.004
+demo,a,1,similar_table_Similar patient,0.476
+demo,a,1,similar_table_5,0.396
+demo,a,1,similar_table_2,0.866
+demo,a,1,similar_table_Similar patient,3.874
+demo,a,1,similar_table_1,0.216
+demo,a,1,similar_table_Similar patient,0.431
+demo,a,1,similar_table_Similar patient,0.118
+demo,a,1,similar_table_1,0.126
+demo,a,1,similar_table_1,0.203
+demo,a,1,similar_table_1,0.139
+demo,a,1,similar_table_1,0.407
+demo,a,1,similar_table_1,0.294
+demo,a,1,similar_table_2,0.203
+demo,a,1,similar_table_3,0.095
+demo,a,1,similar_table_4,0.5
+demo,a,1,similar_table_5,0.417
+demo,a,1,similar_table_Similar patient,0.493
+demo,a,1,similar_table_4,0.153
+demo,a,1,feature_image,21.756
+demo,a,1,feature_image,0.911
+demo,a,1,similar_table_4,0.027
+demo,a,1,similar_table_4,0.025
+demo,a,1,similar_table_3,0.033
+demo,a,1,similar_table_3,0.372
+demo,a,1,feature_image,5.278
+demo,a,1,feature_image,0.208
+demo,a,1,feature_image,20.548
+demo,a,1,LLM_positive_points,6.04
+demo,a,1,similar_table_1,0.29
+demo,a,1,patient_table,0.078
+demo,a,1,feature_image,5.266
+demo,a,1,feature_image,11.152
+demo,a,1,feature_image,11.415
+demo,a,1,LLM_positive_points,0.114
+demo,a,1,vitals_table_Heart Rate,0.142

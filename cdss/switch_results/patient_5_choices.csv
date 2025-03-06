@@ -1,0 +1,44 @@
+user_id,user_archetype,switch_choice,explanation
+tim,b,switch,
+0,a,switch,all vitals in range
+1,b,switch,There is no need for IV for this patient.
+2,a,dont_switch,"Again, it depends what the term 'uncomplicated UTI' means.  Although blood pressure is down, this is not accompanied by a rise in HR.  She is a young woman and this BP may be normal for her"
+3,b,switch,no temperatures during admission. IV not required unless resistant organism/interations with oral options/oral options CI
+4,a,switch,no concerning features requiring IV therapy. Although the systolic BP has been reducing I think it is likely within normal range for a young person
+5,b,switch,Vital signs show no sign of worsening/sevrity. I'm not sure I would have given IV abx in the first place based on these data
+6,a,dont_switch,Blood pressure downward trend. ? becoming more septic picture. 
+7,b,switch,Nil spikes in temp - all vitals okay
+8,a,switch,"Would review with infection markers (CRP, WBC), if coming down and patient has clinically responded would stop as has received adequate therapy"
+9,b,switch,"Afebrile, obs ok. "
+10,a,switch,
+11,b,switch,Should be ok - might want sensitivities and CRP
+12,a,switch,clinical improvement
+13,b,switch,stop?
+14,a,switch,uncomplicated UTI so could stop. Would need to check crp and WBC
+15,b,switch,Stop antibiotics at this point as uncomplicated and 3 days is enough
+16,a,switch,"Clinically well, uncomplicated infection.  Could stop.  Were iv abx ever indicated?"
+17,b,switch,if no concerning microbiology i would stop antibiotics at 3 days in this scenario
+18,a,switch,stop abx or switch to Po off still symptomatic
+19,b,switch,Stop
+20,a,switch,"also check symptoms are improving. note low BP - see if there is a reason for this, other parameters fine"
+21,b,switch,consider stopping therapy - guidance for uncomplicated UTI in non pregnant women (assume not pregnant) is 3 days. would also ask about urinary  symptoms. low risk patient with no temp
+22,a,switch,"Not febrile, likely stop if clinically improve as has completed 3 days"
+23,b,switch,"Maintained clinical stability for a number of days in the setting of an uncomplicated UTI, would consider this patient suitable for PO abx"
+24,a,switch,Uncomplicated UTI. Normal observations. Why were IV antibiotics started in the first place?
+25,b,switch,"Stop,?/ could have been treated with orals only"
+26,a,switch,"Stable uncomplicated UTI , I am unclear why she was started on iv in the first place"
+27,b,switch,Not sure that the diagnosis is right Ii would want to see micro results and might consider evidenceand possibly stopping AB 
+28,a,switch,"No red flags, achieved milestones."
+29,b,switch,parameters stable 
+30,a,switch,"Stop antibiotics. Clinically stable and condition requires 3/7 tx usually, for which she has already had. Would be nice to see positive microbiology."
+31,b,switch,Observations stable and apyrexial. Blood results would feed into this decision.
+32,a,switch,"Switch , potentially stop. Would consider if patient has had previous uti's not responding to abx and any urine cultures and sensitivity results. Would consider why clinicians started patient on IV abx rather than oral. "
+33,b,switch,"vital signs within normal range, uncomplicated UTI, already completed 3 days of IVs"
+34,a,switch, biometrics stable (systolic bp slightly low by all others fine - would make clinical assessment). uncomplicated UTI so consider stopping ABX.
+35,b,switch,I would stop abx
+36,a,switch,IV therapy probably not indicated in the first instance
+37,b,switch,"clinically well, uncomplicated UTI"
+38,a,switch,"young patient, uncomplicated infection.would want to ensure she is not vomiting & can tolerate oral + downtrending CRP to be confident to do the oral switch"
+39,b,switch,Patient arguably could have been started Oral antibiotics from initiation of antibiotics.
+40,a,switch,"Stop antibiotics, duration appropriate for indication, patient stable, (although IV antibiotics not appropriate for this indication)"
+41,b,switch,improving news score 

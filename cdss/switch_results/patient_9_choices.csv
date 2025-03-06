@@ -1,0 +1,44 @@
+user_id,user_archetype,switch_choice,explanation
+tim,b,switch,
+0,a,switch,vitals imrpvoing
+1,b,switch,It is difficult to decide without diagnosis.
+2,a,switch,obs are basically normal now (but was tachypnoeic onfew  measurement s).
+3,b,switch,"improving, afebrile"
+4,a,switch,acknowledge that MAP has been falling from high baseline but all other parameters are ok and patient not hypotensive
+5,b,switch,Seems stable with no features of severity
+6,a,switch,meet parameters
+7,b,switch,Vitals stable - nil temp spikes
+8,a,dont_switch,Need further information on infection diagnosis and infection marker. Observations and patient demographics suggest an oral switch could be considered 
+9,b,dont_switch,"Obs fine, but very limited info on diagnosis. Would d/w drs"
+10,a,switch,
+11,b,switch,probably had enough
+12,a,switch,"day >2, patient is stable"
+13,b,switch,appears clinically stable
+14,a,switch,Look at CRP and WBC. Temp reducing. 
+15,b,switch,No evidence of infection on initial observations and 57 with no comorbidities. Stop and observe
+16,a,switch,"Clinically stable.  Indication for abx unclear, but physiologically certainly ready to switch to po."
+17,b,switch,"again unclear if infection is a driver, vitals stabilised been ion IV for 4 days so would likely switch to stop"
+18,a,switch,
+19,b,dont_switch,NEWS>3 in one parameter. Need more clinical information
+20,a,dont_switch,"resp rate still high, needs clinical assessment"
+21,b,switch,all markere improving and duration of therapy already 4 days (after 3 days consideration should be to strongly suggest a switch if clinically improving asper ives guidelines)
+22,a,switch,"Stable vital signs trend and has completed 4 days  of IV. However, final decision will depend on diagnosis"
+23,b,switch,There has been clinical improvement and even a spell of stability thereafter. Agree with IVOS here
+24,a,switch,"As per above. Limited information, but assuming no special infection indication, she now has normal observations and 4 days of IVs should be sufficient for most infections."
+25,b,switch,Stop. Unclear why patient is on antibiotics. 
+26,a,switch,Clinical improvement
+27,b,switch,No deterioration no reason not to explore oral option 
+28,a,switch,No red flags
+29,b,switch,parameters stable; temp <38
+30,a,switch,"If oral option for abx available, depending on indication would select one. "
+31,b,switch,Obs normalised. Long duration of IV abx already.
+32,a,dont_switch,"would need more information around patient past medical history, why spo2 is up and down and also what the diagnosis is. whether the changes in spo2 are of infective cause? would also like to check crp/wbc any culture and sensitivities? any co-morbidities?"
+33,b,switch,would require more clinical information 
+34,a,switch,Biometrics stable. Assuming clinical improvement switch to orals (or stop if clinically indicated).
+35,b,switch,Observations appear to be improving
+36,a,switch,Appears stable
+37,b,switch,obs stable
+38,a,switch,"vitals stable, as long as can tolerate oral (no vomiting) + inflammatory markers improved"
+39,b,switch,"Difficult decision, clearly further information would be more useful. I am reassured by the improvements to harm-dynamic instability. Would be keen to investigate for alternative causes of hypoxia/tachypnoea."
+40,a,switch,"Review diagnosis, switch to PO for stop as clinically stable. "
+41,b,switch,"stable news score, if clinically well and bloods improving (wbc/crp) would further support the decision to switch"

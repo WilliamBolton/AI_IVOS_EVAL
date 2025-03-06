@@ -1,0 +1,44 @@
+user_id,user_archetype,switch_choice,explanation
+tim,b,switch,
+0,a,dont_switch,"would investiagte why gcs 14 in last 24 hours, if not significant would consider IVOS"
+1,b,switch,"The antibiotic should be stopped, not switched."
+2,a,switch,"Fluctuating GCS appears to be the main problem. His comorbidities do not suggest this is normal for him. Assuming infection is the cause of this, he should be on broader antibiotics than fluclox.  "
+3,b,switch,"markers look good, would need additional information (how wound looks, CRPp)"
+4,a,switch,concerning feature her is lower GCS that seems to have improved meaning PO should now be a viable option for ongoing treatment 
+5,b,switch,Clinically stable (except for brief drop in GCS to 14). I would switch and monitor for deterioration 
+6,a,switch,Stop Abx. No clear rationale to continue. Vitals stable + no change since abx started
+7,b,switch,All vitals stable - nil temp spikes
+8,a,switch,Systemically stable. Need to know diagnosis + infection markers to understand if abx are still required i.e can be stopped or requires a longer course that can be completed with orals 
+9,b,switch,obs ok. Would like to check his why he is on fluclox and that he has an infection. 
+10,a,switch,"It looks like vital signs are at a baseline level so the fact there is no deterioration at day 5 is reassuring. Flucloxacillin suggests cellulitis, although can't be certain. Knowing the clinical diagnosis would be important. "
+11,b,switch,Probably enough but would want to know CRP and appearance
+12,a,switch,"uncomplicated infection, clinically stable"
+13,b,switch,"I would question the rationale, can it be stopped"
+14,a,dont_switch,no  diagnosis. Would need cap and bcc. Look in medical notes to see what treating. Any culture and  sensitivity?
+15,b,switch,stop antimicrobials - no evidence of infection based on observations. 
+16,a,switch,"5 days should be adequate treatment for most indications.  If clinical concerns, could have 2-5 days further antibiotics, but need to be clear why we'd choose that course of action."
+17,b,switch,no infection diagnosis and no meaningful change in vitals. would stop antibiotics and work up diagnostically as required
+18,a,switch,stop abx - unclear why on fluclox:; if clinical focus (mild cellulitis)0 could have more PO
+19,b,switch,Stop. ? evidence for infection
+20,a,dont_switch,"review - no diagnosis available, may be able to switch"
+21,b,switch,to confirm indication and would step down to oral with specified duration as per indication.pt has comorbidities but none that should result in extending IV therapy. CRP/wBC trend would help to switch if improving 
+22,a,switch,"Has completed 5 days of IV flucoxacillin, not worsening vitals. However no diagnosis so deciosn might change based on diagnosis if source control has not been achieved for example"
+23,b,switch,No clear indication so with no suspected/confirmed diagnosis of something requiring longer term MSSA treatment would de-escalate or stop
+24,a,switch,"Normal observations. If infection source still not clear after 5 days, my practice would normally be to stop antibiotics and then reassess. "
+25,b,switch,Stop as may not be infection at all. Consider re-work up of patient
+26,a,switch,"There is no indication given for this antibiotic prescriptions, I would prompt a re-evaluation of the infective diagnosis. Are antibiotics really needed here?"
+27,b,switch,What is the Alert for what are we treating where is the infection. What is the microbiology inefficient info to make full decision but without information i would be tempted to stop antibiotics
+28,a,dont_switch,"Multiple risk factors, insufficient data to exclude S. aureus sepsis, need imaging, cultures and inflammatory markers until able to make safe decision"
+29,b,switch,parameters stable 
+30,a,switch,Clarify decision for antibiotics with the clinical team (or myself if I am looking after patient).Re-evalute the need for any antibiotics. Likely to stop if not indicated(or depending on indication) could consider oral option (i.e. if it was for SSTI)
+31,b,switch,"Unclear what the diagnosis is, but assuming no complex infection indication(e.g. Staph aureus bacteraemia), then switch to oral as observations normal."
+32,a,switch,"would confirm whether patient is clinically improving, any c&s and then switch to oral. "
+33,b,switch,"not even a low grade pyrexia over 5 days, unclear diagnosis, already completed 5 days of IV antibiotics; further history, clinical examination findings, inflammatory markers, blood cultures, CXR and urine MC&S would be helpful"
+34,a,switch,Biometrics stable. No clinical diagnosis. needs assessment. if no evidence of infection the stop ABX. 
+35,b,switch,"Again,  I would need more clinical info, but with what I have, I would stop antibiotics due to mostly normal observations and no diagnosis"
+36,a,switch,"Would depend a little on context of conscious level (e.g., can the patient safely swallow oral medications)"
+37,b,switch,clinically well and already completed abx for a few days
+38,a,switch,"if CRP and area of redness improved then switch, if the same or worsening then don't switch "
+39,b,switch,I have less confidence n IVOS when source of infection not known. however based on the observations there are few features seen that concern be for fulminant sepsis..
+40,a,switch,Change to PO antibiotic or stop - depending on local signs symptoms (assuming this is for skin/soft tissue infection)
+41,b,switch,if CRP normal maybe even stop

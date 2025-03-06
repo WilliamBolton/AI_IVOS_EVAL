@@ -1,0 +1,44 @@
+user_id,user_archetype,switch_choice,explanation
+tim,b,switch,
+0,a,dont_switch,"worried about gcs and possible effect on oral route / swallowing, would invesitaget safety of oral admin before switch"
+1,b,switch,This patient has improved. The antibiotic can be switched with nasogastric tube in place.
+2,a,switch,Obs normal
+3,b,switch,
+4,a,dont_switch,GCS still low suggesting possible issues with PO route and still running with low MAP
+5,b,dont_switch,unexplained fluctuant GCS is concerning 
+6,a,switch,parameters stabilising
+7,b,dont_switch,Low GCS +temp  rising - reassess in 24hours
+8,a,dont_switch,Low GCS that has improved on IV abx. Would like to know how patient is doing clinically + infection markers before considering oral switch
+9,b,dont_switch,Would d/w Drs prior to switching to see what the diagnosis is. 
+10,a,switch,Stable vitals for last 24 hrs or so.
+11,b,dont_switch,not enough info - CRP WCC and what is being treated
+12,a,switch,"day 3, patient is stable"
+13,b,switch,"not much vitals wise except GCS, reassess if clinically infection or not, de-escalation depends if CNS infection is a differential"
+14,a,switch,CRP + WBc needed
+15,b,dont_switch,"Unclear what GCS baseline is, need more information."
+16,a,switch,Fluctuating and low GCS is the only concern I have about this patient.  They could be given enteral abx via an ng tube (if necessary) as they will also need to be fed as part of their care.
+17,b,dont_switch,unwell with poor GCS (Assuming this is new for pt) and now temp creeping slightly with fluctuating BP. if infection thought to be driving would prob ensure IV is suitable for CNS penetration
+18,a,dont_switch,low gas:; but?/needs antibiotics?/
+19,b,switch,Need more clinical information but potential switch on data shown. What is WCC and CRP?
+20,a,dont_switch,"review 24 hours, improving. don't know baseline GCS."
+21,b,dont_switch,"improving GCS and stable Obs, however Ai higher threshold decision tool prompting me to follow the suggestion of not switching. need more clinical info (baseline GCS pre admission WBC/CRp "
+22,a,switch,Vital stable but final decision will depend on diagnosis
+23,b,dont_switch,"Would be tempted to switch here given the improvement in HR over last 24-48hrs or so, however the temp is concerning me slightly and would be inclined to reassess in 24hrs"
+24,a,switch,Satisfactory observations. Assume no special infection. HAs completed 3 days IV Abx. 
+25,b,switch,Stop. unclear why pt is on antibiotics. Needs re-working up.
+26,a,dont_switch,"GCS and BP improving, but not back to normal, was this sepsis as initial diagnosis? Continue iv until further improvement, although assume there may be an NG tube in place so enteral route might be available."
+27,b,dont_switch,Unless NGg tube in place GCSs may cause problems with oral agents 
+28,a,switch,Stable for 24 hours no clear red flags
+29,b,dont_switch,GCS low; low grade fevers 
+30,a,dont_switch,"Low GCS., I would want more information about this case to optimise decision, however most scenarios would likely require a longer course of IV abx (depending on indication)."
+31,b,dont_switch,Low GCS
+32,a,dont_switch,"Consider why GCS low, is this back to baseline and is patient clinically improving? any c&s, and what is the indication for abx. Was the patient spiking in temp on admission, why were abx started? does patient require IVs, would they be able to swallow oral abx? "
+33,b,dont_switch,"still very low GCS, but would like more information again regarding history, examination and other investigations"
+34,a,dont_switch,Slightly low systolic and temp 37.8 would prompt me to review in 24 hours incase signal of developing complication.
+35,b,dont_switch,"Need more info about cause of low GCS before switch, in absence of this, continue IVs"
+36,a,dont_switch,Concerns about GCS and swallowing
+37,b,dont_switch,"low gas, need to ensure safe oral can be taken first and temp over 37.5. Unclearwhy abx taken so need further information here"
+38,a,dont_switch,"reduced GCS, unlikely will tolerate an oral"
+39,b,switch,"Concerning features here are the low GCS. Assuming we are not treating a CNS infection, i think it is reasonable to IVOS"
+40,a,dont_switch,Given low grade fever and reduced GCS - need more clinical information and CRP/WCC response to inform decision here
+41,b,dont_switch,low grade temp spike 

@@ -1,0 +1,44 @@
+user_id,user_archetype,switch_choice,explanation
+tim,b,dont_switch,
+0,a,dont_switch,"temps increasing, systolics dropping, still on supplemental o2"
+1,b,dont_switch,The respiratory rates are increasing.
+2,a,dont_switch,30 hours is not long enough to assess for response.  I would give another 24 hours.  HOWEVER.  If this was a community acquired pneumonia (the q doesn;t say) then i would have started with some 'atypical cover' also e.g. coamox+ clari
+3,b,dont_switch,"Raised inflammatory markers (raised CRP, RR>20"
+4,a,dont_switch,Based on CURB score the patient is at least CURB 2 (no urea mentioned) and therefore should be on a macrolide / tetracycline as part of treatment but I would not switch from IV
+5,b,dont_switch,Signs of clinical worsening with increasing temperature and heart rate. I would consider changing to a new IV antibiotic
+6,a,dont_switch,HR/Temp/RR raised
+7,b,dont_switch,High temperature - reassess in 24hours
+8,a,dont_switch,"Rising temperature, HR and rest rate "
+9,b,dont_switch,remains tachycardia and febrile
+10,a,dont_switch,"Patient remains febrile, and is high risk of complications (due to obesity). I would be interested in seeing chest x-ray and results for viral PCR swab, but these probably would not change my decision at this point. "
+11,b,dont_switch,Still febrile
+12,a,dont_switch,"24 hrs of IV treatment, patient still spiking fever (unresolved infection)"
+13,b,dont_switch,not clinically stable
+14,a,dont_switch,"parameters rising. Would look at CRP too, reassess 24-48 hours "
+15,b,dont_switch,Patient remains febrile on co-amox
+16,a,dont_switch,Would change to iv Amoxicillin
+17,b,dont_switch,"on IV for ""'24hrs. still febrile, tachy, requiring oxygen and he's obese which could make oral switch more challenging anyway"
+18,a,dont_switch,24h of antibiotics and still high pyrexia - would consider broadening antibiotics
+19,b,dont_switch,Still high NEWS2 score >5 . High Temp. resps and heart rate
+20,a,dont_switch,temp and heart rate going up
+21,b,dont_switch,"fevers developing on IV therapy, (and HR increasing) however only 1 day of treatment - would consider escalating therapy or switching to another antimicrobial if markers didn't improve in the next 24 hours"
+22,a,dont_switch,Clinically unwell
+23,b,dont_switch,No convincing clinical improvement to suggest de-escalation
+24,a,dont_switch,Inadequate treatment response. Would continue current antibiotics for now but escalate to broader spectrum IV antibiotics if no improvement or deterioration. 
+25,b,dont_switch,"This is CAP, so oral doxycycline or IV clarithromycin is needed as well. "
+26,a,dont_switch,"Still pyrexial, only had iv co-amox for 24hrs, presumably severe CAP ( no urea or respiratory rate in the absence of oxygen supplementation given to calculate CURB65 score)"
+27,b,dont_switch,Deteriorating response need more microbiology and info re HAPp v CAP including whether admitted from nursing home would consider TAZ. Ddo we have culture results or Legionella antigen?/
+28,a,dont_switch,"Fever, and high HR, potential escalation adding in macrolide if CAP "
+29,b,dont_switch,clinical parameters not improving
+30,a,dont_switch,Clinical parameters not settled on early IV abx. Review in 24hrs.
+31,b,dont_switch,"Still pyrexial, and <48h treatment duration."
+32,a,dont_switch,spike in temp last 24 hours- consider change to different IV abx
+33,b,dont_switch,still febrile
+34,a,dont_switch,"Ongoing biochemical evidence consistent with infection, consider adding additional ABX for atypical organisms."
+35,b,dont_switch,"Day 1, still febrile and tachycardia, no signs improvement yet"
+36,a,dont_switch,Change IV - clinically worsening
+37,b,dont_switch,Clinically unwell and has only been on IV abx for a day
+38,a,dont_switch,high fevers
+39,b,dont_switch,"Haemodynmical instability, consider addition of atypical cover"
+40,a,dont_switch,Still Febrile and only 24hrs into IV abx
+41,b,dont_switch,"still spiking temp, if CRP going up may even review IVABs"

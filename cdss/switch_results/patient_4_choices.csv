@@ -1,0 +1,44 @@
+user_id,user_archetype,switch_choice,explanation
+tim,b,switch,
+0,a,switch,"temps and other vitals all ok, and have been since started"
+1,b,switch,I do not think this patient required IV antibiotic since the beginning.
+2,a,dont_switch,"HR downtrending.  However, my decisionin real life would be based on her inflammatory markers (blood tests) and my clinical assessment of her cellulitis (how it looks and feels)"
+3,b,switch,Would need documentation of how wound looks. Based on observations would switch.
+4,a,switch,there are no concerning features that I can see that would require IV therapy and oral step down is reasonable
+5,b,switch,"Signs of stability, although I would like to see the cellulite area to make sure that it is also improving and not expanding "
+6,a,switch,Vitals all ok
+7,b,switch,"Temp normal - no spikes, alert, GCS 15"
+8,a,switch,No systemic features of severe infection. Would review infection markers + clinical response and step down to oral for a few more days 
+9,b,switch,"Obs fine, long preceding course of abx. Would like to know how her leg is however. "
+10,a,switch,"I would be interested in knowing whether the appearance of cellulitis is stable/improving (e.g., is it spreading or not?). All metrics are reassuring, although one has to be cautious in diabetic patients. I reviewed the AI recommendations, and note that none of the similar patients had cellulitis as an infection diagnosis. "
+11,b,switch,"not enough info - WCC, CRP and appearance of cellulitis"
+12,a,switch,"day 4, patient seems to improving (?), availability of oral drugs with same spectrum"
+13,b,switch,"Assuming the cellulitis is clinically better, CRP responding"
+14,a,dont_switch,not enough info to make a decision here. As diabetic would look to see if any swabs. Is it a simple cellulitis? Need WCC and CRP. Diabetic patients often have gram negative organisms
+15,b,switch,Clinical improvement
+16,a,switch,"Clinically stable, has had 5 days of iv abx.  Could stop or switch to po for 2-5 more days."
+17,b,switch,if cellulitis is clinically improving too i would switch to appropriate oral abx based on above
+18,a,switch,appears ready for PO
+19,b,switch,Infection parameters settled
+20,a,switch,also need to monitor the cellulitis - is it improving.
+21,b,switch,"5 days of Iv therapy (as per NEWS pt stable) - would want to know CRP, size and colour of cellulitis and if reducing (as often will be marked to help monitor infection)"
+22,a,switch,"Not febrile, stable and soft tissue infection "
+23,b,switch,Systemically well on an antibiotic with a clear oral switch. Clinical visual improvement in cellulitis would also help me make this decision with more confidence
+24,a,switch,Observations have normalised. Would switch (probably would have done so earlier) assuming not bacteraemic
+25,b,switch,"Stop at 5 days, could have been switched to oral earlier"
+26,a,switch,"It is likely that such a patient would be able to be switched to an oral agent by day5, I would like to know whether the cellulitis has improved and what the WCC and CRP results are"
+27,b,switch,Stable  from start why was IV used 
+28,a,switch,Patient has achieved milestones no reasons for concern or enough data to suggest complications
+29,b,switch,parameters stable. no fevers
+30,a,switch,Clinical stable. Oral option likely to be suitable. 
+31,b,switch,Observations normalised. On abx for >5d.
+32,a,switch,Would like to check whether cellulitis looked like it was improving. 
+33,b,switch,"vital signs within normal range, already completed 5 days of IV antibiotics - would be useful to include a visual of the cellulitis area and how it has changed compared to at the start of the treatment course"
+34,a,switch,Stable biometrics. Assuming clinical improvement of cellulitis I would stitch patient to orals. 
+35,b,switch,Switch but again would want clinical info
+36,a,switch,"Based on observations alone, there is little systemic indication for IV therapy. If there is a concern about extent of cellulitis, there are numerous highly bioavailable oral options"
+37,b,switch,I would also be guided by Infectious Disease (ID) and micro regarding whether longer duration IV required even though patient clinically well. 
+38,a,switch,would like to see CRP downtrending + area of erythema/redness improving clinically also to be confident for an oral switch
+39,b,switch,Typically patient with uncomplicated cellulitis can undergo IVOS at 48/72 hours. Patient clinically improving based on observations.
+40,a,switch,Stable and afebrile can change to PO
+41,b,switch,"news improving, if crp improving too would switch to OAB"

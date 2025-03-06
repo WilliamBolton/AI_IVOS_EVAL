@@ -1,0 +1,44 @@
+user_id,user_archetype,switch_choice,explanation
+tim,b,switch,
+0,a,switch,"apyrexial, HR returned to normal"
+1,b,switch,Everything is improving. Antibiotic should have been switched by day 2.
+2,a,dont_switch,"HR reducing.  Nothing else (ie no other parameters) to follow.  I would want to see blood test results before making this decision in reality.  Also, what is 'com,plicated UTI' sometimes this means there is an abscess (which is an exclude criteria in the UKHSA guidelines)"
+3,b,switch,no temperatures during admission. Had 5 days of Abby. Oops stable at point of switch recommendation
+4,a,switch,patient has received IV abx for at least 3 days. Their blood pressure has improved after being hypotensive and they are no long er displaying signs of sepsis. Oral switch is therefore reasonable 
+5,b,switch,Signs of clinical improvement
+6,a,switch,Vitals all within normal limits
+7,b,switch,Vitals all stable - incl temp
+8,a,dont_switch,"Would need more information on nature of UTI i.e complicated but need to understand why. Would also like to see wBC, CRP and urine culture/sensitivities before a switch could be considered"
+9,b,switch,"Long preceding course of IVs abx, afeb, other observations ok"
+10,a,switch,A good course (5 days of IV abx has been given). All metrics/observations are reassuring. 
+11,b,switch,seems to be improving but would like to see WCC and CRP
+12,a,switch,resolving infection
+13,b,switch,clinical improvement in vitals
+14,a,switch,parameters reducing. Would need to look at CRP and WCC  too. Probably could stop 
+15,b,switch,Patient clinically stable 
+16,a,switch,Afebrile for several days.  No physiological markers of severe infection.
+17,b,switch,"haemodynamically stable, if no concerning microbiology/radiology would prob stop antibiotics totally. "
+18,a,switch,"stop antibiotics: ;would like to see that CRP <,50% of peak"
+19,b,switch,NEWS score suitable. No WCC and CRP though
+20,a,switch,had a long course and parameters improving
+21,b,switch,"had 5 days IV therapy (young with no previous known Hx of recurrent UTI) - would likely have culture results now to direct step down. all markers stable (temp, HR reducing, BP low but stable and likely low as young"
+22,a,switch,"Has completed 5 days of IV, clinically improving"
+23,b,switch,Evidence of clinical response and sustained apyrexia. Inflammatory markers may reassure me here
+24,a,switch,Improvement in physiological observations; has already completed 5 days IV; would probably have switched earlier
+25,b,switch,Needs two more days of antibiotics. 
+26,a,switch,pyrexial and stable for many days
+27,b,switch,Appears to be responding switch could have been made earlier. Switch should be based on ST results
+28,a,switch,Milestones as per national guidance achieved
+29,b,switch,clinical parameters stable 
+30,a,switch,Clinically stable on 5/7 of abx. Suitable candidate for oral switch. 
+31,b,switch,Abnormal observations have resolved. Apyrexial and on abx for 5d already.
+32,a,switch,would like to check urine culture- if resistant organism may not have oral option. 
+33,b,switch,"already completed 5 days of IVs, vital signs within normal range"
+34,a,switch,Clinical resolution. switch to orals. consider stopping antibiotics within next 48 hours. 
+35,b,switch,"From what I see, I would switch / possibly stop completely, but I would like to know more info on why complicated UTI, and also blood response"
+36,a,switch,IV therapy probably not indicated in the first instance based on info provided
+37,b,switch,"Clinically well based on above observations however would also request further Information based on the fact that this is a complex UTI, such as imaging, micro results and ID input"
+38,a,switch,signs improving after 5 days
+39,b,switch,"improvement in observations (HR and BP), already received in excess of required IV therapy"
+40,a,switch,switch to PO antibiotics as no longer septic but diagnosis requires at least 5 more days antibiotics 
+41,b,switch,haemodynamically stable clinically improving

@@ -1,0 +1,44 @@
+user_id,user_archetype,switch_choice,explanation
+tim,b,dont_switch,
+0,a,dont_switch,"temp and HR increasing, GCS dropped in last 24 hours"
+1,b,dont_switch,"This patient is not improving and should be evaluated for other differential diagnoses, investigated for complications, or evaluated for the pos of drug resistance or other causative pathogens."
+2,a,switch,Becoming febrile.  Without any additionalo data I have to assume pt is not responding to current abx and need to switch
+3,b,dont_switch,"patient now has temperatures, would review with cultures, for potentially switching IV or adding second agent (atypical cover?/)"
+4,a,switch,As long as GCS does not impair his ability to take PO aux then a switch seems reasonable. The recent GCS is 15. If it were lower I would persist with IV
+5,b,dont_switch,signs that the infection has not started to resolve - continued pyrexia. I would look for other evidence of improvement such as CRP or white cell count. 
+6,a,dont_switch,Switch IV abx or need to be able to view more diagnostics and imaging/ needs to stabilise first. 
+7,b,dont_switch,Temp rising on ceftriaxone - ?consider alternative/escalate. O2 sats reducing too
+8,a,dont_switch,"Rising temperature. Would also like to see CRP,WBC and micro results "
+9,b,dont_switch,"Needs further IX as still febrile after 3 days of ceftriaxone, rpt CXR, ?foreign travel etc "
+10,a,dont_switch,"Febrile, with episode of low BP and confusion. I would be concerned for complications of pneumonia such as empyema, so would ask for a chest x-ray. Also could be atypical pneumonia so would test for this. "
+11,b,dont_switch,still febrile
+12,a,dont_switch,i would change the IV antibiotic
+13,b,switch,"on going fever but I wouldn't switch in isolation, clinical reasesss also eg correct diagnosis, empyema"
+14,a,dont_switch,need to look at CRP and WCC too. Probably would escalate treatment to another broader spectrum antibiotic
+15,b,dont_switch,Patient remains febrile with reducing sats. 
+16,a,switch,"He's had 3 days of iv abx, although the patient remains febrile, all of his other markers are favourable.  If no empyema (or effusion clinically) I would switch to po abx."
+17,b,switch,"would switch to different IV. increasingly febrile, labile BP and GCS  despite 3 days cef, would need repeat septic screen and risk assessment for MDRO"
+18,a,switch,still pyrexial unsure if this is ongoing pneumonia or another infection (e.g. C. difficile; line infection; virus). Would like procalcitonin; CRP and clinical details
+19,b,dont_switch,Temperature still raised
+20,a,dont_switch,"temp and rest rate going up, might try a different IV option"
+21,b,dont_switch,note pt has low o2 sats but not on oxygen (could support with resolution of pneumonia. would review patient after o2 therapy and then consider switch as spiking temperatures in last 1-2 days
+22,a,dont_switch,Febrile last 24hr
+23,b,dont_switch,"The recent pyrexia would make me concerned there is ongoing infection needing IVs, this could be ongoing/non-responding pneumonia or would also make me consider empyema. In either case I would not feel comfortable IVOST"
+24,a,dont_switch,Remains febrile at 72 hours; inadequate treatment response; would investigate and switch to an alternative agent - probably IV. 
+25,b,dont_switch,Temperature is still high
+26,a,dont_switch,I might escalate or add a second agent (?atypical cover given lack of response and pyrexia at 3 days)
+27,b,switch,Not deteriorating seems static test switch for response
+28,a,dont_switch,Escalation to broader spectrum i.e. Pitazobactam or depending on available cultures/radiology - exclude empyema. patient still febrile and High RR on day 3 of IVs
+29,b,dont_switch,persisting fever >38
+30,a,switch,Further investigation for reason for continued pyrexia. However BP/HJR stable. Oral switch while testing
+31,b,dont_switch,Still pyrexial.
+32,a,switch,would like to check wbc/crp/pct and any respiratory viral screening/ sputum to have confidence to switch
+33,b,dont_switch,still high fevers
+34,a,dont_switch,"Persisting fevers, other metrics stable. unclear whether complication evolving or slow response. review in 24 hours. "
+35,b,dont_switch,"I would switch to another IV abx as still febrile and dropping GCS after 48 hours, I would also consider alternative diagnosis and rescreen"
+36,a,dont_switch,"New development of temperatures either suggestive of another focus (e.g., urinary) or development of deep-seated complication e.g., empyema"
+37,b,dont_switch,patient clinically unwell with pyrexia so requires discussion with micro regarding alternative IV abx as well as review of blood work and radiology to exclude ?empyema or otherwise
+38,a,dont_switch,"ongoing temp spikes, fluctuant gcs ?delirium and wouldn't be able to tolerate an oral"
+39,b,dont_switch,I would like some more information before IVOS including repeat imaging to consider abscess/empyema and inflammatory markers
+40,a,dont_switch,Continue IV ceftriaxone as BPp stable but developing fevers on treatment. Are there infection diagnostics back? Is there a source control problem e.g. empyema?
+41,b,dont_switch,change to another IVABs

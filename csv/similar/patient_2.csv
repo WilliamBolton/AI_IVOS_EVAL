@@ -1,0 +1,6 @@
+Similar patient,Age,Sex,Ethnicity,Index of multiple deprivation,Co-morbidities,Infection diganosis,AI CDSS prediction,Real action,Prediction matched real action
+1,79,Male,Other,1,"Cataracts","Sepsis and pneumonia",Dont switch,Didnt switch,Yes
+2,86,Female,Asian,3,"Cataracts",N/A,Switch,Switched,Yes
+3,91,Female,Black,2,"Bilateral cataracts",UTI,Switch,Didnt switch,No
+4,95,Female,White,5,"Cataracts, Arthritis",Sepsis,Dont switch,Didnt switch,Yes
+5,90,Female,White,2,"Pseudophakia",N/A,Switch,Switched,Yes

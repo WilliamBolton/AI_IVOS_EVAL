@@ -1,0 +1,44 @@
+user_id,user_archetype,switch_choice,explanation
+tim,b,switch,
+0,a,dont_switch,"review in 24 hours, concerned about respiratory function, need to know if has had supplemental o2 + any pmh respiratory conditions, "
+1,b,switch,"Without diagnosis, antibiotics should be stopped. There is no obvious need for any antibiotics."
+2,a,dont_switch,"Elderly gentleman, BP only seems to have turned corner in last few hours.  Without knowing anything else i would wait a bit longer before switching to orals"
+3,b,dont_switch,"HR high, ob unstable"
+4,a,dont_switch,marginal but at hour 26 patient had a drop in MAP and therefore at hour 36 of care I would persist with IV
+5,b,switch,Seems clinically stable based on these data
+6,a,dont_switch,appears to be stabilising but not yet there
+7,b,dont_switch,"HR slightly up, O2 sats reduced - reassess in 24 hours to see if suitable for switch"
+8,a,dont_switch,Need more information on infection diagnosis and how patient is doing clinically. Trends in observations not necessarily linked to infection. 
+9,b,dont_switch,Broad pulse pressure. Would speak to drs and find out why he is on abx as may have sig infection
+10,a,dont_switch,"Limited info about infection diagnosis and antibiotic agent. Given age and relatively early in treatment, I would reassess in 24 hrs"
+11,b,dont_switch,"not enough  info - which Abx, CRP, WCC, what's it for"
+12,a,dont_switch,< 48h post admission
+13,b,switch,Reassess clinically  (patient and other parameters) the need
+14,a,dont_switch,not haemodynaicall stable 
+15,b,switch,No evidence of infection based on observations alone.  Given co-morbidities would need CRP etc to inform further. Repeat samples off antimicrobials
+16,a,switch,No clear indication for iv antibiotics to me at this point.
+17,b,switch,vitals don't give compelling picture of i infective process. if no evidence of infection on board would stop antibiotics  esp someone of this age where you'd worry about c diff
+18,a,dont_switch,not enough clinical details to advise - why on; clinical diagnosis; symptoms; bloods etc
+19,b,switch,Stop. Would need to know clinical information and WCC CRP
+20,a,dont_switch,need more clinical and antibiotic info to make any decision
+21,b,switch,past medical history would help as elderly - and ?indication and which antibiotic. would consider switching as Hr/temp all normal
+22,a,dont_switch,"Final decision will depend on diagnosis, type of antibiotic as per vitals maybe able to switch"
+23,b,switch,"Haemodynamically stable, would depend a bit on the indication which is not provided but as long as no infections requiring special consideration then PO switch would seem appropriate"
+24,a,switch,"Limited information here, but based on normal observations in the last 24 hours, i would be inclined to switch"
+25,b,switch,Stop. Not clear why pt is on antibiotics. Re-work up patient
+26,a,switch,"I am unclear what the indication for iv antibiotics is here. There is no information on the diagnosis, nor on the agent prescribed.He is apyrexial throughout with seemingly normal parameters ( except slightly high blood pressure at some point)"
+27,b,switch,I am not sure of diagnosis but Ii can't see a reason not to switch to oral or to stop AB completely 
+28,a,dont_switch,"Elderly patient, likely multiple comorbidities. Red flags : hypothermia, tachypnoeic, low diastolic pressure. Additional information with cultures, radiology and inflammatory markers needed before taking decision. Most likely outcome is escalation to broader spectrum cover."
+29,b,switch,parameters stable; afebrile
+30,a,switch,Clarify indication for antibiotics. Likely to switch to oral if indication allows. 
+31,b,switch,"Unclear what the diagnosis is or reason for antibiotics, so would depend on clinical history/imaging/bloods, but on the face of it able to switch due to normal observations."
+32,a,switch,baseline blood pressure? clinically improving signs and symptoms? any cultures and sensitivities? 
+33,b,switch,"vital signs are within range, but would need more information in reality to make this decision - clinical history, examination findings, blood tests, CXR/blood culture/urine MC&Ss"
+34,a,switch,No information about diagnosis or choice of ABX. needs clinical assessment. Biometrics stable. assuming no reason for continued IV consider to switch to orals (or even stop if no evidence of infection). 
+35,b,dont_switch,"With information I have, concerned about intermittent high respiratory rate, and low MAP, still in first 48 hours"
+36,a,dont_switch,Needs broader assessment before decision can be made (re: the significance of the labile resp rate)
+37,b,switch,a-redial and rest of observations ok
+38,a,dont_switch,likely old and frail  therefore likely needs longer on IV's as may also have delirium which could mean he won't tolerate oral
+39,b,switch,In most circumstances i believe this patient could IVOS however decision made more challenging by lack of diagnosis and absent blood markers. 
+40,a,dont_switch,"Need more information to inform decision i.e. temp, GCS, CRP response"
+41,b,switch,no temp spikes bp stable if crp/wbc improving I would switch to OAB

@@ -1,0 +1,44 @@
+user_id,user_archetype,switch_choice,explanation
+tim,b,dont_switch,
+0,a,dont_switch,"respiratory rate is erratic last 12 hours, if <20 would consider ivos, would investiagte why 14-24 last 12 hours"
+1,b,switch,I cannot notice any signs of infections from the vital signs. The patient might not need antibiotic.
+2,a,switch,obs improved
+3,b,switch,"afebrile, appears to be stabilising"
+4,a,dont_switch,MAP has been low only a few hours previously and therefore demonstrating signs of possible sepsis therefore continue on IV therapy
+5,b,dont_switch,Some feature of severity - episodes of low blood pressure and mild hypoxia
+6,a,dont_switch,Appears to have worsened in last 24 hours. Rereview with imaging/ diagnostics/ cultures
+7,b,switch,Nil temp spikes - stable all round
+8,a,dont_switch,Need further information on infection diagnosis and infection markers. Observations suggest an oral switch could be made. 
+9,b,dont_switch,Need for info. Ptappears to be hypotensive for her age. Would d/w Drs. 
+10,a,switch,"Although there was an episode of hypertension, no particular trends can be identified. "
+11,b,dont_switch,"not enough info - need WCC, CRP and what is being treated"
+12,a,switch,"almost 48th hour post admission, patient seems stable"
+13,b,switch,I would want t reassess if low BP and sats are potentially sepsis driven and whether an alternative iv needed?
+14,a,dont_switch,Reassess in 24 hours
+15,b,switch,inflammatory markers would be useful here but given observations ok and no real change to variable response rate I would stop and observe
+16,a,switch,"Physiologically stable, if still needs abx, could be po."
+17,b,switch,risks or IV outweigh benefits in this scenario. afebrile and haemodynamically stable
+18,a,switch,
+19,b,switch,
+20,a,dont_switch,review in 24 hours
+21,b,switch,"although BP has just dropped significantly on most recent observations, has had previous episodes (and unclear whether this could be sepsis driven or for other reasons) no other info on diagnosis /PMH that would help direct therapy in elderly patient who could be at risk of infections"
+22,a,dont_switch,"Unclear how clinically stable is the patients with available viral signs. Will need more info (CRP, FBC) and diagnosis "
+23,b,dont_switch,The recent desaturation would worry me this lady is not stable enough for IVOS
+24,a,switch,I don't see a particular indication for continued IVs. She now has normal observations. Obviously fairly limited diagnosis. 
+25,b,switch,Stop. Unclear why patient is on antibiotics. 
+26,a,switch,"Apyrexial, some decrease in oxygen saturation would prompt evaluation for cause with CXR ? non-infective causes such as heart failure or PE"
+27,b,switch,No reason not to consider oral switch or stop completely depending on pathology 
+28,a,dont_switch,"High variability on EWS, last day ok but not sustained long enough. Accept IVOS guidelines no red flags at present. I would ideally reassess in 24 hours with repeat markers."
+29,b,switch,Parameters stable; temp <38
+30,a,switch,Clinical parameters broadly acceptable. Note interesting that Sp02 of 93 last and prediction would say this is weighted to not switch. Clinical normal usual 94 and above and lower acceptable for a number of other conditions (i.e. COPD). Oral abx likely suitable given this.
+31,b,dont_switch,"Hypotensive, seemingly new. Would need additional information to reassure to switch (e.g  prior BP and investigations)"
+32,a,dont_switch,"Would require more information around clinical condition, any comorbidities, crp&wbc, whether there is an indication for abx. Also whether the changes in spo2 are due to non-infective cause. Would also like to know if this patient is on oxygen and if these oxygen requirements have changed during admission."
+33,b,switch,"vital signs within range, but would require more clinical information "
+34,a,dont_switch,"Systolic BP lower than baseline, 93% sats, increase in respiratory rate. May reflect underlying chronic co-morbidity. I would maintain ABX and review patient. "
+35,b,dont_switch,"Within last 12 hours, desaturation and hypotension"
+36,a,dont_switch,Meets sepsis criteria
+37,b,switch,"apyrexial, obs stable"
+38,a,dont_switch,"slightly hypoxic and BP saggy, old and frail likely needs longer on abx"
+39,b,switch,Again not a clear cut decision however. Afebrile and haemodynamically stable. Further information would cleary help with decision making.
+40,a,dont_switch,Needs diagnostic review - appears to be deteriorating from respiratory point of view
+41,b,dont_switch,"tachypnic, hypotensive,low spo2, either change IVAbs or keep in same given crp downtrending "

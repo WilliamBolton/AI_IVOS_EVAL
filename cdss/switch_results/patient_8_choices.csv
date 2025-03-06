@@ -1,0 +1,44 @@
+user_id,user_archetype,switch_choice,explanation
+tim,b,switch,
+0,a,dont_switch,"what is indicaiton, would investigate why sats dropped and if significant would review 24 hours"
+1,b,dont_switch,There is not enough information and this patient was comatose. Better do no harm.
+2,a,dont_switch,"Patient is still unwell withlow BPs, tachycardic and desaturated during last few hours.  I would NOT switch to oral abx (but i would probably switch to a broader IV abx)"
+3,b,switch,"patient improving, afebrile and had 6 days of IV"
+4,a,dont_switch,at hour 125 (of 126) the systolic BP was 95 and MAP 69. I would persist with IV route due to possible severity of infection
+5,b,dont_switch,"Still remains tachycardic, I would look to other data like WBC and CRP to help guide this decision. If they were both falling I may switch"
+6,a,dont_switch,Review cultures/ sensitivities / imaging / diagnostics. If none available ? stop and reculture.
+7,b,switch,Vitals all stable - nil temp spikes
+8,a,dont_switch,Trends in observations suggest oral switch could be made but need further information regarding infection diagnosis and infection markers
+9,b,dont_switch,Not enough info. Would like to know diagnosis from Drs
+10,a,switch,"I don't think i can pick out specific trends in vital signs. Borderline decision. In this case, knowing WCC/CRP might help decision."
+11,b,switch,"Probably ok, but I would want CRP, WCC"
+12,a,switch,"day 6, clinically stable"
+13,b,switch,"6 days and vitals better, most things can de-escalate by now"
+14,a,switch,Need CRP and WBC.
+15,b,dont_switch,Patient had reduced GCS - unclear if this is meningoencephalitis. If so would need 10 days empirical treatment at least. Need CSF to clarify diagnosis and treatment duration
+16,a,switch,"Clinically stable.  Once indication clear, duration can be decided, but certainly no need for further iv abx."
+17,b,switch,vitals/GCS improved. unclear if infection driving any of this so would stop and review
+18,a,dont_switch,not enough information
+19,b,switch,Stop. ? evidence of infection. Already had 6 days ABx. Need WCC and CRP and more clinical information
+20,a,dont_switch,BP still low - clinical input needed
+21,b,switch,again PMH/indication helpful as treatment already has been 6 days IV. Tool helped to confirm other patients had switched and higher prediction provides stronger evidence
+22,a,switch,Has completed 6 days of IV antibiotics already. Final decision will depend on diagnosis and type of antibiotics 
+23,b,dont_switch,I'm not convinced there is sufficient clinical improvement to IVOST. I be considering recapturing or resampling here. I could perhaps be convinced in the setting of markedly improved inflammatory markers or clinical picture
+24,a,switch,"Very limited information here, but based on largely normal observations and the assumption that there is no 'special infection' indication for IVs, I would be inclined to switch to orals. "
+25,b,switch,"Stop,. unclear why pt is on antibiotics. Per-work up patient."
+26,a,switch,Clinicalimprovement and apyrexia. Would be useful to know the diagnosis
+27,b,dont_switch,"GCS though improving may still affect swallow, also without underlying pathology details of culture difficult to be sure what is happening.  If CNSs disease may be tempted to add Listeria cover and consider investigation for fungal causes if remains static "
+28,a,dont_switch,"EWS 5 after long treatment, BP is of concern, need more data with imaging, inflammatory markers to make a decision, also antibiotic history. Likely outcome review/ escalate to a broader antibiotic"
+29,b,switch,parameters stable; afebrile 
+30,a,switch,Clinical parameters broadly stable. Dependant on indication/other markers (i.e. inflamatory) would switch to oral abx if option available.
+31,b,switch,"Switch, provided diagnosis non-complex and investigations  supportive. Although tachycardia, this is borderline. Otherwise apyrexial and 6d of abx."
+32,a,switch,"meets criteria for switch, would also consider whether patient is clinically improving , any culture and sensitivities? Why was GCS low on admission?"
+33,b,switch,"similarly, would need more clinical context, including history, clinical examination and blood tests/other investigation results"
+34,a,switch,"Afebrile. Biometrics stable. Needs review to ensure clinically improving. assuming so, consider switching to orals (or stop if infection resolved)"
+35,b,dont_switch,"I need more clinical info, but with the little I have, I'm concerned about persistent tachycardia and borderline hypotension"
+36,a,switch,Assess response to oral  step-down as inpatient
+37,b,switch,obs stable and already iv abx 6 days
+38,a,switch,if also WCC/neut improving and he looks and feels more clinically well 
+39,b,switch,I concluded that patient suitable for IVOS. Found it reassuring that the AI data strongly supported this too.
+40,a,dont_switch,Based on obs he is clinically deteriorating - are there non infective reasons for this. Review diagnosis before making decision. Might consider change of IV abx
+41,b,dont_switch,"Not enough info to decide, tachypnic and tachycardia ?cause  CRP and PMH would be helpful"

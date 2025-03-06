@@ -1,0 +1,44 @@
+user_id,user_archetype,switch_choice,explanation
+tim,b,dont_switch,
+0,a,dont_switch,"would reconsider if e.g. background copd, otherwise spo2 toooo low"
+1,b,dont_switch,This patient is having septic shock.The BP has not improved.
+2,a,dont_switch,Still has low sats.  This decision depends on the patient's baseline 02 saturation and what infection he is being treated for
+3,b,switch,afebrile
+4,a,dont_switch,low MAP WITHIN LAST FEW HOURS demonstrating possible sepsis
+5,b,dont_switch,Markers of severity - borderline blood pressure and hypoxia
+6,a,switch,Meet parameters
+7,b,switch,"Stables vitals - nil temp spikes, good HR and BP"
+8,a,dont_switch,Need further information regarding patient status and infection diagnosis. Could potentially switch to oral 
+9,b,dont_switch,Would need to know what the diagnosis is. Would d/w Drs.
+10,a,switch,"The higher AI thresholds seemed too conservative in this case, hence switch. "
+11,b,dont_switch,"not enough info - CRP , WCC, What is being treated and with what ABx"
+12,a,dont_switch,"day <2, low BP (septic shock?)"
+13,b,dont_switch,"still some low BPs,lowish sats  i would reassess clinically if could be sepsis driven, may need a switch in iv?"
+14,a,switch,CRP + WBC needed
+15,b,switch,"Systolic improved, sats remain unchanged and afebrile"
+16,a,switch,Clinically stable (despite low SpO2) - could switch to po abx to complete treatment.
+17,b,dont_switch,was hypotensive and tacchy and decreased GCS on admission. would prob review in another 24-36 hrs (with micro and other investigations) and switch if remains improved
+18,a,dont_switch,blood pressure low
+19,b,switch,Doesn't look like infection. Possible stop depending on clinical details and WCC/CRP
+20,a,switch,everything is starting to improve
+21,b,switch,"pt GCS / BP improved since admission. no temp, HR and other observations stable "
+22,a,dont_switch,"Low O2 Sat and unclear diagnosis. Would be helpful to have more lab data  (CRP, FBC)"
+23,b,switch,48hrs with some clinical improvement and stability. No clear indication given so presuming nil needing special consideration and would IVOOS
+24,a,dont_switch,low/down trending  oxygen saturations. Would want to understand this before switching.
+25,b,switch,Stop . Unclear why pt is on antibiotics. 
+26,a,switch,"Aapyrexial, already had 48hrs of iv therapy, diagnosis not given making decision difficult. Labile haemodynamic parameters ?non-infective cause."
+27,b,switch,no reason not to switch given information available or even stop depending on the putative infection 
+28,a,dont_switch,"Has not achieved 24 hours of clinical stability, reassess in 24 hours with repeat markers"
+29,b,switch,
+30,a,switch,Acceptable clinical parameters. If indication allows for oral switch. 
+31,b,dont_switch,Recent period of significant hypotension. This needs to be looked at before IVOST
+32,a,switch,"consider whether patient is clinically improving, any co-morbidities, if patient is on supplementary oxygen nd if those requirements are going up/down. Also to consider why are the SpO2  up and down and if this is an infection. To check wbc/ crp and whether any imaging to support infection?"
+33,b,switch,"afebrile, not tachypnoeic or tachycardic; further clinical information such as history, examination and investigations needed"
+34,a,switch,Biometrics stable. No evidence of worsening infection. consider orals. 
+35,b,dont_switch,"Recent hypotension, still early"
+36,a,switch,Appears stable
+37,b,switch,"apyrexial, obs stable"
+38,a,dont_switch,depends on what his target sats is. Is he hypoxic from infection or is this his normal target sats (? COPD with sats 88-92 range) - can make decision to switch or not once clarified
+39,b,dont_switch,Significant period of hypotension with preceding 24hours. 
+40,a,switch,"Need other information to support decision - i.e. CRP response, PMH h- does this patient have COPD - is this his baseline oxygenation?"
+41,b,dont_switch,news score 
